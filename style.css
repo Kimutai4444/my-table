@@ -37,7 +37,7 @@ td{
     background-color: blueviolet;
 }
 section{
-    background-image: url("/wensday.avif");
+    background-image: url("wensday.avif");
     /* background-size: cover; */
     /* width: 100% */
     height: 100vh;
